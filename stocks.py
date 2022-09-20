@@ -40,6 +40,6 @@ def stock_purchases():
 
     # 1.5 TODO: Once you've calculated the number of stocks that can be purchased,
     # Use an f-string to print the result for the client, ala:
-    #print(f'{Client_name} has ${dollars_invest} to invest and can buy {number_stocks} shares of {stock_name} at the current price of ${purchase_power}.')
+    print(f'{Client_name} has ${dollars_invest} to invest and can buy {number_stocks} shares of {stock_name} at the current price of ${purchase_power}.')
     # Alex has $5000 to invest and can buy 50 shares of Apple at the current price of $100.
-stock_purchases()
+#stock_purchases()
